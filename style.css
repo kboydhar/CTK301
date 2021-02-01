@@ -1,0 +1,54 @@
+/* CSS */
+p {
+ color: #ff0000;
+ background-color: #000000;
+}
+
+h1 {
+  color: #FFFFFF;
+  background-color: #000000
+}
+ul {
+  color: #FFFFFF;
+  background-color: #000000
+}
+a {
+ text-decoration: none;
+}
+
+#divexample {
+  color: #FFFFFF;
+  background-color: #000000
+}
+
+
+
+a:hover {
+ text-decoration: underline;
+}
+#specialid {
+  color: #00FF00
+}
+
+.specialp {
+ color: #99ff00;
+}
+a {
+ color: #FF0090;
+}
+
+a:link {
+ color: #FFFFFF;
+}
+
+a:visited {
+ color: #0000ff;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+ color: #ffff00;
+}
